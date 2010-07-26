@@ -1,6 +1,6 @@
 <?
 $config = $array(
 	'username'=>'hello',
-	'password'=>'1234',
+	'password'=>'5678',
 );
 ?>
