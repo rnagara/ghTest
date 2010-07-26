@@ -1,2 +1,2 @@
-This is readme
+This is readme.
 MOD: hotfix002
